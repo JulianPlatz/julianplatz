@@ -1,4 +1,4 @@
-### Heyy 👋, I'm Julian Platz
+### Heyy 👋, I'm Julian
 #### Student and hobby programmer
 
 - 🔭 I’m currently working on My Website 
