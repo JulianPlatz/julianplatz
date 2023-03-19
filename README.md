@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [My Website](https://julianplatz.netlify.app) 
 - 🌱 I’m currently learning **UI/UX**
+- ⚡️ Fun fact: I work with 2 operating systems
 
 #### Languages and Tools:
 <p> 
