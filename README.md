@@ -2,7 +2,7 @@
 #### Student from germany
 
 - 🔭 I’m currently working on [My Website](https://julianplatz.netlify.app).
-- 🌱 I’m currently learning **UI/UX**.
+- 🌱 I’m currently learning **Frontend**.
 - ⚡️ Fun fact: I work with 2 operating systems.
 
 #### Languages and Tools:
