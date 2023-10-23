@@ -1,6 +1,6 @@
 ## Heyy, Ich bin Julian 👋
 
-- 🔭 Gerade arbeite ich an [Meiner Website](https://julianplatz.netlify.app).
+- 🔭 Ich arbeite immer an [Meiner Website](https://julianplatz.netlify.app).
 - 🌱 Aktuell lerne ich **Front- und Backend**.
 
 #### Skills and Tools:
