@@ -1,6 +1,7 @@
-## Heyy, Ich bin Julian! 👋
+## Heyy, ich bin Julian! 👋
 
-- 🔭 Ich arbeite immer an [Meiner Website](https://julianplatz.netlify.app).
+- 🚧 [Meiner Website](https://julianplatz.netlify.app) ist immer eine Baustelle.
+- 🎮 Gerade experimentiere ich mit einer ValorantAPI herum. ([TST](https://tactical-stats-tracker.netlify.app))
 - 🌱 Aktuell lerne ich **Front- und Backend**.
 
 #### Skills and Tools:
