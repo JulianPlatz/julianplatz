@@ -1,7 +1,7 @@
 ## Heyy, ich bin Julian! 👋
 
-- 🚧 <a href="https://julianplatz.netlify.app" target="_blank">Meine Website</a> ist immer eine Baustelle.
-- 🎮 Gerade experimentiere ich mit einer ValorantAPI herum. ([TST](https://tactical-stats-tracker.netlify.app))
+- 🚧 [Meine Website](https://julianplatz.netlify.app) ist immer eine Baustelle.
+- 🎮 Gerade experimentiere ich mit einer ValorantAPI herum.
 - 🌱 Aktuell lerne ich **Front- und Backend**.
 
 <hr>
