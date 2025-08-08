@@ -1,3 +1,3 @@
 # Julian Platz
 
-- 🌱 **Ausbildung:** Fachinformatiker für Anwendungsentwicklung
+- 🌱 **Ausbildung:** Fachinformatiker Anwendungsentwicklung
