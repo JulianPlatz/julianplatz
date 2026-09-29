@@ -1,6 +1,6 @@
 # Hallo, ich bin Julian! 👋
 
-Ich bin ein **Full-Stack-Developer** mit einer Leidenschaft für performante Frontends und intuitive User Experience. Mein Fokus liegt darauf, komplexe technische Anforderungen in benutzerfreundliche Webanwendungen zu übersetzen.
+Ich bin ein **Junior Full-Stack Web Entwickler** mit einer Leidenschaft für performante Frontends und intuitive User Experience. Mein Fokus liegt darauf, komplexe technische Anforderungen in benutzerfreundliche Webanwendungen zu übersetzen.
 
 <br>
 
